@@ -1,0 +1,373 @@
+﻿ mnnnnmnn,nnbjjjjjAlgoritmo PromP
+
+Saber el promedio de m/s por año, luego compararlo y sacar un nuevo promedio para el 2016
+
+
+Inicio
+	Enteros Largos: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10, 
+	Enteros Largos: E1, E2, E3, E4, E5, E6, E7, E8, E9, E10, E11, E12, E13, E14
+	Enteros Largos: DE1, DE2, DE3, DE4, DE5, DE6, DE7, DE8, DE9, DE10, DE11, DE12, DE13, DE14
+	Enteros Largos: Prom2012, Prom2013, Prom2014, Prom2015
+	Enteros Largos: Prom, Dif1, Dif2, Dif3
+
+#Ingresar a 2012
+#Cargar E1
+
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E1 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE1
+	E1 ← E1 / DE1
+
+#Cargar E2
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E2 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE2
+	E1 ← E2 / DE2
+
+#Cargar E3
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E3 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE3
+	E1 ← E3 / DE3
+
+#Cargar E4
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E4 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE4
+	E1 ← E4 / DE5
+
+#Cargar E5
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E5 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE5
+	E1 ← E5 / DE5
+
+#Cargar E6
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E6 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE6
+	E1 ← E6 / DE6
+
+#Cargar E7
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E7 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE7
+	E1 ← E7 / DE7
+
+#Cargar E8
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E8 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE8
+	E1 ← E8 / DE8
+
+#Cargar E9
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E9 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE9
+	E1 ← E9 / DE9
+
+#Cargar E10
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E10 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE10
+	E1 ← E10 / DE10
+
+#Cargar E11
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E11 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE11
+	E1 ← E11 / DE11
+
+#Cargar E12
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E12 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE11
+	E1 ← E11 / DE11
+
+#Cargar E13
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E13 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE12
+	E1 ← E12 / DE12
+
+#Cargar E14
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E14 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE13
+	E1 ← E13 / DE13
+
+
+	Prom2012 ← (E1 + E2 + E3 + E4 + E5 + E6 + E7 + E8 + E9 + E10 + E11 + E12 + E13 + E14) / 14
+
+
+#Ingresar a 2013
+#Cargar E1
+
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E1 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE1
+	E1 ← E1 / DE1
+
+#Cargar E2
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E2 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE2
+	E1 ← E2 / DE2
+
+#Cargar E3
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E3 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE3
+	E1 ← E3 / DE3
+
+#Cargar E4
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E4 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE4
+	E1 ← E4 / DE5
+
+#Cargar E5
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E5 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE5
+	E1 ← E5 / DE5
+
+#Cargar E6
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E6 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE6
+	E1 ← E6 / DE6
+
+#Cargar E7
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E7 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE7
+	E1 ← E7 / DE7
+
+#Cargar E8
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E8 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE8
+	E1 ← E8 / DE8
+
+#Cargar E9
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E9 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE9
+	E1 ← E9 / DE9
+
+#Cargar E10
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E10 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE10
+	E1 ← E10 / DE10
+
+#Cargar E11
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E11 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE11
+	E1 ← E11 / DE11
+
+#Cargar E12
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E12 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE11
+	E1 ← E11 / DE11
+
+#Cargar E13
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E13 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE12
+	E1 ← E12 / DE12
+
+#Cargar E14
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E14 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE13
+	E1 ← E13 / DE13
+
+	Prom2013 ← (E1 + E2 + E3 + E4 + E5 + E6 + E7 + E8 + E9 + E10 + E11 + E12 + E13 + E14) / 14
+
+#Ingresar a 2014
+#Cargar E1
+
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E1 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE1
+	E1 ← E1 / DE1
+
+#Cargar E2
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E2 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE2
+	E1 ← E2 / DE2
+
+#Cargar E3
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E3 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE3
+	E1 ← E3 / DE3
+
+#Cargar E4
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E4 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE4
+	E1 ← E4 / DE5
+
+#Cargar E5
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E5 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE5
+	E1 ← E5 / DE5
+
+#Cargar E6
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E6 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE6
+	E1 ← E6 / DE6
+
+#Cargar E7
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E7 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE7
+	E1 ← E7 / DE7
+
+#Cargar E8
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E8 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE8
+	E1 ← E8 / DE8
+
+#Cargar E9
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E9 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE9
+	E1 ← E9 / DE9
+
+#Cargar E10
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E10 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE10
+	E1 ← E10 / DE10
+
+#Cargar E11
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E11 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE11
+	E1 ← E11 / DE11
+
+#Cargar E12
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E12 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE11
+	E1 ← E11 / DE11
+
+#Cargar E13
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E13 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE12
+	E1 ← E12 / DE12
+
+#Cargar E14
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E14 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE13
+	E1 ← E13 / DE13
+
+	Prom2014 ← (E1 + E2 + E3 + E4 + E5 + E6 + E7 + E8 + E9 + E10 + E11 + E12 + E13 + E14) / 14
+
+#Ingresar a 2015
+#Cargar E1
+
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E1 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE1
+	E1 ← E1 / DE1
+
+#Cargar E2
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E2 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE2
+	E1 ← E2 / DE2
+
+#Cargar E3
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E3 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE3
+	E1 ← E3 / DE3
+
+#Cargar E4
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E4 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE4
+	E1 ← E4 / DE5
+
+#Cargar E5
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E5 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE5
+	E1 ← E5 / DE5
+
+#Cargar E6
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E6 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE6
+	E1 ← E6 / DE6
+
+#Cargar E7
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E7 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE7
+	E1 ← E7 / DE7
+
+#Cargar E8
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E8 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE8
+	E1 ← E8 / DE8
+
+#Cargar E9
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E9 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE9
+	E1 ← E9 / DE9
+
+#Cargar E10
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E10 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE10
+	E1 ← E10 / DE10
+
+#Cargar E11
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E11 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE11
+	E1 ← E11 / DE11
+
+#Cargar E12
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E12 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE11
+	E1 ← E11 / DE11
+
+#Cargar E13
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E13 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE12
+	E1 ← E12 / DE12
+
+#Cargar E14
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	E14 ← P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10
+	Leer: DE13
+	E1 ← E13 / DE13
+
+	Prom2015 ← (E1 + E2 + E3 + E4 + E5 + E6 + E7 + E8 + E9 + E10 + E11 + E12 + E13 + E14) / 14
+
+	Prom ← (Prom2012 + Prom2013 + Prom2014 + Prom2015) / 4
+	Dif1 ← Prom2012 - Prom2013
+	Dif2 ← Prom2013 - Prom2014
+	Dif3 ← Prom2014 - Prom2015
+	Imprimir: "2012 - 2013 es: " Dif1
+	Imprimir: "2013 - 2014 es: " Dif2
+	Imprimir: "2014 - 2015 es: " Dif3

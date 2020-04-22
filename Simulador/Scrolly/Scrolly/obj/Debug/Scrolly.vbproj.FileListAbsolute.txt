@@ -1,0 +1,14 @@
+C:\Users\Jeison\Documents\expandir\Scrolly\Simulador\Scrolly\Scrolly\bin\Debug\Scrolly.exe.config
+C:\Users\Jeison\Documents\expandir\Scrolly\Simulador\Scrolly\Scrolly\bin\Debug\Scrolly.exe
+C:\Users\Jeison\Documents\expandir\Scrolly\Simulador\Scrolly\Scrolly\bin\Debug\Scrolly.pdb
+C:\Users\Jeison\Documents\expandir\Scrolly\Simulador\Scrolly\Scrolly\bin\Debug\Scrolly.xml
+C:\Users\Jeison\Documents\expandir\Scrolly\Simulador\Scrolly\Scrolly\obj\Debug\Scrolly.vbproj.GenerateResource.Cache
+C:\Users\Jeison\Documents\expandir\Scrolly\Simulador\Scrolly\Scrolly\obj\Debug\Scrolly.exe
+C:\Users\Jeison\Documents\expandir\Scrolly\Simulador\Scrolly\Scrolly\obj\Debug\Scrolly.xml
+C:\Users\Jeison\Documents\expandir\Scrolly\Simulador\Scrolly\Scrolly\obj\Debug\Scrolly.pdb
+C:\Users\Jeison\Documents\expandir\Scrolly\Simulador\Scrolly\Scrolly\bin\Debug\Scrolly.exe.manifest
+C:\Users\Jeison\Documents\expandir\Scrolly\Simulador\Scrolly\Scrolly\bin\Debug\Scrolly.application
+C:\Users\Jeison\Documents\expandir\Scrolly\Simulador\Scrolly\Scrolly\obj\Debug\Scrolly.exe.manifest
+C:\Users\Jeison\Documents\expandir\Scrolly\Simulador\Scrolly\Scrolly\obj\Debug\Scrolly.application
+C:\Users\Jeison\Documents\expandir\Scrolly\Simulador\Scrolly\Scrolly\obj\Debug\Beta.Scrolly.resources
+C:\Users\Jeison\Documents\expandir\Scrolly\Simulador\Scrolly\Scrolly\obj\Debug\Beta.Resources.resources

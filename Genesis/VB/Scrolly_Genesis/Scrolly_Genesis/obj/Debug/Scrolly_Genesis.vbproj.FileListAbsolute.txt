@@ -1,0 +1,20 @@
+C:\Users\Jeison\AppData\Local\Temporary Projects\Scrolly_Genesis\bin\Debug\Scrolly_Genesis.exe.config
+C:\Users\Jeison\AppData\Local\Temporary Projects\Scrolly_Genesis\bin\Debug\Scrolly_Genesis.exe
+C:\Users\Jeison\AppData\Local\Temporary Projects\Scrolly_Genesis\bin\Debug\Scrolly_Genesis.pdb
+C:\Users\Jeison\AppData\Local\Temporary Projects\Scrolly_Genesis\bin\Debug\Scrolly_Genesis.xml
+C:\Users\Jeison\AppData\Local\Temporary Projects\Scrolly_Genesis\obj\Debug\Scrolly_Genesis.Form1.resources
+C:\Users\Jeison\AppData\Local\Temporary Projects\Scrolly_Genesis\obj\Debug\Scrolly_Genesis.Resources.resources
+C:\Users\Jeison\AppData\Local\Temporary Projects\Scrolly_Genesis\obj\Debug\Scrolly_Genesis.vbproj.GenerateResource.Cache
+C:\Users\Jeison\AppData\Local\Temporary Projects\Scrolly_Genesis\obj\Debug\Scrolly_Genesis.exe
+C:\Users\Jeison\AppData\Local\Temporary Projects\Scrolly_Genesis\obj\Debug\Scrolly_Genesis.xml
+C:\Users\Jeison\AppData\Local\Temporary Projects\Scrolly_Genesis\obj\Debug\Scrolly_Genesis.pdb
+C:\Users\Jeison\Documents\expandir\Scrolly\Genesis\VB\Scrolly_Genesis\Scrolly_Genesis\bin\Debug\Scrolly_Genesis.exe.config
+C:\Users\Jeison\Documents\expandir\Scrolly\Genesis\VB\Scrolly_Genesis\Scrolly_Genesis\obj\Debug\Scrolly_Genesis.exe
+C:\Users\Jeison\Documents\expandir\Scrolly\Genesis\VB\Scrolly_Genesis\Scrolly_Genesis\obj\Debug\Scrolly_Genesis.xml
+C:\Users\Jeison\Documents\expandir\Scrolly\Genesis\VB\Scrolly_Genesis\Scrolly_Genesis\obj\Debug\Scrolly_Genesis.pdb
+C:\Users\Jeison\Documents\expandir\Scrolly\Genesis\VB\Scrolly_Genesis\Scrolly_Genesis\bin\Debug\Scrolly_Genesis.exe
+C:\Users\Jeison\Documents\expandir\Scrolly\Genesis\VB\Scrolly_Genesis\Scrolly_Genesis\bin\Debug\Scrolly_Genesis.pdb
+C:\Users\Jeison\Documents\expandir\Scrolly\Genesis\VB\Scrolly_Genesis\Scrolly_Genesis\bin\Debug\Scrolly_Genesis.xml
+C:\Users\Jeison\Documents\expandir\Scrolly\Genesis\VB\Scrolly_Genesis\Scrolly_Genesis\obj\Debug\Scrolly_Genesis.Form1.resources
+C:\Users\Jeison\Documents\expandir\Scrolly\Genesis\VB\Scrolly_Genesis\Scrolly_Genesis\obj\Debug\Scrolly_Genesis.Resources.resources
+C:\Users\Jeison\Documents\expandir\Scrolly\Genesis\VB\Scrolly_Genesis\Scrolly_Genesis\obj\Debug\Scrolly_Genesis.vbproj.GenerateResource.Cache

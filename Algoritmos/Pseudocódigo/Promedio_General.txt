@@ -1,0 +1,404 @@
+﻿Algoritmo_Promedio_General
+Inicio
+    Enteros Largos: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10, 
+	Enteros Largos: E1, E2, E3, E4, E5, E6, E7, E8, E9, E10, E11, E12, E13, E14
+	Enteros Largos: DE1, DE2, DE3, DE4, DE5, DE6, DE7, DE8, DE9, DE10, DE11, DE12, DE13, DE14
+	Enteros Largos: Prom2012, Prom2013, Prom2014, Prom2015
+	Enteros Largos: Prom, Dif1, Dif2, Dif3
+
+#2012
+#Etapa 1 - 2012
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+	Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	Importar: DE1.txt
+    Leer: DE1
+    E1 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE1
+
+#Etapa 2 - 2012
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	Importar: DE1.txt
+    Leer: DE3
+    E2 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE2
+    
+#Etapa 3 - 2012
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	Importar: DE3.txt
+    Leer: DE3
+    E3 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE3
+
+#Etapa 4 - 2012
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE4.txt
+    Leer: DE4
+    E4 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE4
+
+#Etapa 5 - 2012
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE5.txt
+    Leer: DE5
+    E5 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE5
+
+#Etapa 6 - 2012
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE6.txt
+    Leer: DE6
+    E6 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE6
+    
+#Etapa 7 - 2012
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE7.txt
+    Leer: DE7
+    E7 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE7
+
+#Etapa 8 - 2012
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE8.txt
+    Leer: DE8
+    E8 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE8
+
+#Etapa 9 - 2012
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE9.txt
+    Leer: DE9
+    E9 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE9
+
+#Etapa 10 - 2012
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE10.txt
+    Leer: DE10
+    E10 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE10
+
+#Etapa 11 - 2012
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE11.txt
+    Leer: DE11
+    E11 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE11
+    
+#Etapa 12 - 2012
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE12.txt
+    Leer: DE12
+    E12 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE12
+    
+#Etapa 13 - 2012
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE13.txt
+    Leer: DE13
+    E13 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE13
+    
+#Etapa 14 - 2012
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE14.txt
+    Leer: DE14
+    E14 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE14
+
+    Prom2012 = E1 + E2 + E3 + E4 + E5 + E6 + E7 + E8 + E9 + E10 + E11 + E12 + E13 + E14 / 14
+#2013
+#Etapa 1 - 2013
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	Importar: DE1.txt
+    Leer: DE1
+    E1 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE1
+
+#Etapa 2 - 2013
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	Importar: DE1.txt
+    Leer: DE3
+    E2 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE2
+    
+#Etapa 3 - 2013
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	Importar: DE3.txt
+    Leer: DE3
+    E3 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE3
+
+#Etapa 4 - 2013
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE4.txt
+    Leer: DE4
+    E4 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE4
+
+#Etapa 5 - 2013
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE5.txt
+    Leer: DE5
+    E5 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE5
+
+#Etapa 6 - 2013
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE6.txt
+    Leer: DE6
+    E6 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE6
+    
+#Etapa 7 - 2013
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE7.txt
+    Leer: DE7
+    E7 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE7
+
+#Etapa 8 - 2013
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE8.txt
+    Leer: DE8
+    E8 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE8
+
+#Etapa 9 - 2013
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE9.txt
+    Leer: DE9
+    E9 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE9
+
+#Etapa 10 - 2013
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE10.txt
+    Leer: DE10
+    E10 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE10
+
+#Etapa 11 - 2013
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE11.txt
+    Leer: DE11
+    E11 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE11
+    
+#Etapa 12 - 2013
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE12.txt
+    Leer: DE12
+    E12 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE12
+    
+#Etapa 13 - 2013
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE13.txt
+    Leer: DE13
+    E13 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE13
+    
+#Etapa 14 - 2013
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE14.txt
+    Leer: DE14
+    E14 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE14
+    
+    Prom2013 = E1 + E2 + E3 + E4 + E5 + E6 + E7 + E8 + E9 + E10 + E11 + E12 + E13 + E14 / 14
+
+#2014
+#Etapa 1 - 2014
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	Importar: DE1.txt
+    Leer: DE1
+    E1 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE1
+
+#Etapa 2 - 2014
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	Importar: DE1.txt
+    Leer: DE3
+    E2 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE2
+    
+#Etapa 3 - 2014
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	Importar: DE3.txt
+    Leer: DE3
+    E3 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE3
+
+#Etapa 4 - 2014
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE4.txt
+    Leer: DE4
+    E4 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE4
+
+#Etapa 5 - 2014
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE5.txt
+    Leer: DE5
+    E5 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE5
+
+#Etapa 6 - 2014
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE6.txt
+    Leer: DE6
+    E6 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE6
+    
+#Etapa 7 - 2014
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE7.txt
+    Leer: DE7
+    E7 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE7
+
+#Etapa 8 - 2014
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE8.txt
+    Leer: DE8
+    E8 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE8
+
+#Etapa 9 - 2014
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE9.txt
+    Leer: DE9
+    E9 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE9
+
+#Etapa 10 - 2014
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE10.txt
+    Leer: DE10
+    E10 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE10
+
+#Etapa 11 - 2014
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE11.txt
+    Leer: DE11
+    E11 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE11
+    
+#Etapa 12 - 2014
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE12.txt
+    Leer: DE12
+    E12 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE12
+    
+#Etapa 13 - 2014
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE13.txt
+    Leer: DE13
+    E13 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE13
+    
+    Prom2014 = E1 + E2 + E3 + E4 + E5 + E6 + E7 + E8 + E9 + E10 + E11 + E12 + E13 / 13
+    
+    #2015
+#Etapa 1 - 2015
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE1.txt
+    Leer: DE1
+    E1 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE1
+
+#Etapa 2 - 2015
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	Importar: DE1.txt
+    Leer: DE3
+    E2 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE2
+    
+#Etapa 3 - 2015
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+	Importar: DE3.txt
+    Leer: DE3
+    E3 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE3
+
+#Etapa 4 - 2015
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE4.txt
+    Leer: DE4
+    E4 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE4
+
+#Etapa 5 - 2015
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE5.txt
+    Leer: DE5
+    E5 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE5
+
+#Etapa 6 - 2015
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE6.txt
+    Leer: DE6
+    E6 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE6
+    
+#Etapa 7 - 2015
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE7.txt
+    Leer: DE7
+    E7 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE7
+
+#Etapa 8 - 2015
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE8.txt
+    Leer: DE8
+    E8 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE8
+
+#Etapa 9 - 2015
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE9.txt
+    Leer: DE9
+    E9 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE9
+
+#Etapa 10 - 2015
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE10.txt
+    Leer: DE10
+    E10 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE10
+
+#Etapa 11 - 2015
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE11.txt
+    Leer: DE11
+    E11 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE11
+    
+#Etapa 12 - 2015
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE12.txt
+    Leer: DE12
+    E12 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE12
+    
+#Etapa 13 - 2015
+    Importar: P1.txt, P2.txt, P3.txt, P4.txt, P5.txt, P6.txt, P7.txt, P8.txt, P9.txt, P10.txt 
+    Leer: P1,P2,P3,P4,P5,P6,P7,P8,P9,P10
+    Importar: DE13.txt
+    Leer: DE13
+    E13 ← (P1 + P2 + P3 + P4 + P5 + P6 + P7 + P8 + P9 + P10) / DE13
+    
+    Prom2015 = E1 + E2 + E3 + E4 + E5 + E6 + E7 + E8 + E9 + E10 + E11 + E12 + E13 / 13
+
+Prom ← (Prom2012 + Prom2013 + Prom2014 + Prom2015) / 4
+	Dif1 ← Prom2012 - Prom2013
+	Dif2 ← Prom2013 - Prom2014
+	Dif3 ← Prom2014 - Prom2015
+	Imprimir: "2012 - 2013 es: " Dif1
+	Imprimir: "2013 - 2014 es: " Dif2
+	Imprimir: "2014 - 2015 es: " Dif3

@@ -1,0 +1,15 @@
+        
+DISTANCIAS 2015
+	Distancias(1) =144
+        Distancias(2)= 26
+        Distancias(3)= 282
+        Distancias(4)= 594
+        Distancias(5)= 174
+        Distancias(6)= 322
+        Distancias(7)= 392
+        Distancias(8)= 24
+        Distancias(9)= 51
+        Distancias(10)= 385
+        Distancias(11)= 24
+        Distancias(12)= 248
+        Distancias(13)= 77

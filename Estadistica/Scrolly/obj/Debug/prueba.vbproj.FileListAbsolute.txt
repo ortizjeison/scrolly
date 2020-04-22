@@ -1,0 +1,10 @@
+C:\Users\Jeison\AppData\Local\Temporary Projects\prueba\bin\Debug\prueba.exe.config
+C:\Users\Jeison\AppData\Local\Temporary Projects\prueba\bin\Debug\prueba.exe
+C:\Users\Jeison\AppData\Local\Temporary Projects\prueba\bin\Debug\prueba.pdb
+C:\Users\Jeison\AppData\Local\Temporary Projects\prueba\bin\Debug\prueba.xml
+C:\Users\Jeison\AppData\Local\Temporary Projects\prueba\obj\Debug\prueba.Form1.resources
+C:\Users\Jeison\AppData\Local\Temporary Projects\prueba\obj\Debug\prueba.Resources.resources
+C:\Users\Jeison\AppData\Local\Temporary Projects\prueba\obj\Debug\prueba.vbproj.GenerateResource.Cache
+C:\Users\Jeison\AppData\Local\Temporary Projects\prueba\obj\Debug\prueba.exe
+C:\Users\Jeison\AppData\Local\Temporary Projects\prueba\obj\Debug\prueba.xml
+C:\Users\Jeison\AppData\Local\Temporary Projects\prueba\obj\Debug\prueba.pdb

@@ -1,0 +1,15 @@
+        'Conversión unidades de tiempo
+        'Horas
+        hh = Var \ 3600
+        'Minutos
+        mmmod = (Var / 3600) - hh
+        mmmod2 = mmmod * 60
+        mmmod3 = mmmod2 Mod 1
+        mm = Format(mmmod2 - mmmod3, "0")
+        'Segundos
+        ssmod = mmmod2 - mm
+        ssmod2 = ssmod * 60
+        ssmod3 = ssmod2 Mod 1
+        ss = Format(ssmod2 - ssmod3, "0")
+        'Imprimir el tiempo
+        Tiempo8.Text = Str(hh) + " :" + Str(mm) + " :" + Str(ss)

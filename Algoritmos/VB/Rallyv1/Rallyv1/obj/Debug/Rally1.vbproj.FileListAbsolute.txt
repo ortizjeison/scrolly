@@ -1,0 +1,10 @@
+C:\Users\Jeison\AppData\Local\Temporary Projects\Rally1\bin\Debug\Rally1.exe.config
+C:\Users\Jeison\AppData\Local\Temporary Projects\Rally1\bin\Debug\Rally1.exe
+C:\Users\Jeison\AppData\Local\Temporary Projects\Rally1\bin\Debug\Rally1.pdb
+C:\Users\Jeison\AppData\Local\Temporary Projects\Rally1\bin\Debug\Rally1.xml
+C:\Users\Jeison\AppData\Local\Temporary Projects\Rally1\obj\Debug\Rally1.Form1.resources
+C:\Users\Jeison\AppData\Local\Temporary Projects\Rally1\obj\Debug\Rally1.Resources.resources
+C:\Users\Jeison\AppData\Local\Temporary Projects\Rally1\obj\Debug\Rally1.vbproj.GenerateResource.Cache
+C:\Users\Jeison\AppData\Local\Temporary Projects\Rally1\obj\Debug\Rally1.exe
+C:\Users\Jeison\AppData\Local\Temporary Projects\Rally1\obj\Debug\Rally1.xml
+C:\Users\Jeison\AppData\Local\Temporary Projects\Rally1\obj\Debug\Rally1.pdb

@@ -1,0 +1,10 @@
+C:\Users\Jeison\AppData\Local\Temporary Projects\Convertidor de segundos\bin\Debug\Convertidor de segundos.exe.config
+C:\Users\Jeison\AppData\Local\Temporary Projects\Convertidor de segundos\bin\Debug\Convertidor de segundos.exe
+C:\Users\Jeison\AppData\Local\Temporary Projects\Convertidor de segundos\bin\Debug\Convertidor de segundos.pdb
+C:\Users\Jeison\AppData\Local\Temporary Projects\Convertidor de segundos\bin\Debug\Convertidor de segundos.xml
+C:\Users\Jeison\AppData\Local\Temporary Projects\Convertidor de segundos\obj\Debug\Convertidor_de_segundos.Form1.resources
+C:\Users\Jeison\AppData\Local\Temporary Projects\Convertidor de segundos\obj\Debug\Convertidor_de_segundos.Resources.resources
+C:\Users\Jeison\AppData\Local\Temporary Projects\Convertidor de segundos\obj\Debug\Convertidor de segundos.vbproj.GenerateResource.Cache
+C:\Users\Jeison\AppData\Local\Temporary Projects\Convertidor de segundos\obj\Debug\Convertidor de segundos.exe
+C:\Users\Jeison\AppData\Local\Temporary Projects\Convertidor de segundos\obj\Debug\Convertidor de segundos.xml
+C:\Users\Jeison\AppData\Local\Temporary Projects\Convertidor de segundos\obj\Debug\Convertidor de segundos.pdb

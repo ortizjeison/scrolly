@@ -1,0 +1,10 @@
+C:\Users\Jeison\Documents\expandir\Scrolly\Genesis\VB\Convertidor\Converter_2_Seconds\Converter_2_Seconds\bin\Debug\Converter_2_Seconds.exe.config
+C:\Users\Jeison\Documents\expandir\Scrolly\Genesis\VB\Convertidor\Converter_2_Seconds\Converter_2_Seconds\bin\Debug\Converter_2_Seconds.exe
+C:\Users\Jeison\Documents\expandir\Scrolly\Genesis\VB\Convertidor\Converter_2_Seconds\Converter_2_Seconds\bin\Debug\Converter_2_Seconds.pdb
+C:\Users\Jeison\Documents\expandir\Scrolly\Genesis\VB\Convertidor\Converter_2_Seconds\Converter_2_Seconds\bin\Debug\Converter_2_Seconds.xml
+C:\Users\Jeison\Documents\expandir\Scrolly\Genesis\VB\Convertidor\Converter_2_Seconds\Converter_2_Seconds\obj\Debug\Convertidor_de_segundos.Form1.resources
+C:\Users\Jeison\Documents\expandir\Scrolly\Genesis\VB\Convertidor\Converter_2_Seconds\Converter_2_Seconds\obj\Debug\Convertidor_de_segundos.Resources.resources
+C:\Users\Jeison\Documents\expandir\Scrolly\Genesis\VB\Convertidor\Converter_2_Seconds\Converter_2_Seconds\obj\Debug\Converter_2_Seconds.vbproj.GenerateResource.Cache
+C:\Users\Jeison\Documents\expandir\Scrolly\Genesis\VB\Convertidor\Converter_2_Seconds\Converter_2_Seconds\obj\Debug\Converter_2_Seconds.exe
+C:\Users\Jeison\Documents\expandir\Scrolly\Genesis\VB\Convertidor\Converter_2_Seconds\Converter_2_Seconds\obj\Debug\Converter_2_Seconds.xml
+C:\Users\Jeison\Documents\expandir\Scrolly\Genesis\VB\Convertidor\Converter_2_Seconds\Converter_2_Seconds\obj\Debug\Converter_2_Seconds.pdb
